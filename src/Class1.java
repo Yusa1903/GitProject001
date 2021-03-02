@@ -14,6 +14,7 @@ public class Class1 {
 		//Here is remote change
 		//Here is another remote action
 		System.out.println("Hi this is the first commit from Yusa branch");
+		//here is the conflict of remote master
 
 	}
 
