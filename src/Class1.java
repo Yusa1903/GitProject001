@@ -6,6 +6,7 @@ public class Class1 {
 		
 		//Hello everyone 
 		//This is Yusuf Yusa Mutlu
+		//Thank you for joining 
 
 	}
 
